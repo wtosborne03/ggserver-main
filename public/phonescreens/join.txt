@@ -1,0 +1,19 @@
+<ul id="messages"></ul>
+  <div class="simple-login-container">
+    <h2>Join Game</h2>
+    <div class="row">
+        <div class="col-md-12 form-group">
+            <input type="text" id="room" maxlength="4" style="text-transform:uppercase" class="form-control" placeholder="Room Code">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 form-group">
+            <input type="text" id="name" placeholder="Nickname" class="form-control">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 form-group">
+            <input type="submit" id="join" class="btn btn-block btn-login" placeholder="Enter your Password" >
+        </div>
+      </div>
+</div>

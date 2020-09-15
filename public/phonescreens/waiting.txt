@@ -1,0 +1,3 @@
+<div class="simple-login-container">
+    <h1>Waiting For Other Players</h1>
+</div>
